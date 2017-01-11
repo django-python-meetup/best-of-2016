@@ -8,6 +8,8 @@ https://github.com/search?l=Python&o=desc&p=1&q=created%3A%222016-01-01+..+2016-
 
 ## Dan's List
 
+NOTE: these are actually listed in reverse order with 1 actually being my number 10 pick.
+
  10. Arcade: 2D Game platform - http://pythonhosted.org/arcade/
  9. Visionary: Password manager - https://github.com/libeclipse/visionary
  8. Git Miner: Mine github data - https://github.com/UnkL4b/GitMiner
